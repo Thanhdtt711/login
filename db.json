@@ -1,0 +1,71 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "chat": [
+    {
+      "id": 1,
+      "mess": "nội dung 1"
+    },
+    {
+      "id": 2,
+      "mess": "nội dung 2"
+    },
+    {
+      "mess": "abc",
+      "id": 3
+    },
+    {
+      "mess": "ádsa",
+      "id": 4
+    },
+    {
+      "mess": "đầ",
+      "id": 5
+    },
+    {
+      "mess": "dầdsaf",
+      "id": 6
+    },
+    {
+      "mess": "đà",
+      "id": 7
+    },
+    {
+      "mess": "adfdfd",
+      "id": 8
+    },
+    {
+      "mess": "àdasf",
+      "id": 9
+    },
+    {
+      "mess": "đâf",
+      "id": 10
+    },
+    {
+      "mess": "đầ",
+      "id": 11
+    }
+  ],
+  "login": [
+    {
+      "user": "anhthanh2003",
+      "pass": "12345"
+    }
+  ]
+}

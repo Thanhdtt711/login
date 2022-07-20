@@ -1,0 +1,12 @@
+.dn{
+  display: none;
+}
+.dn.chat{
+  display: block;
+}
+.dn2{
+  display: none;
+}
+.dn2.chat2{
+  display: block;
+}
